@@ -1,5 +1,6 @@
 # Jakarta-Apartment
 report version : https://bit.ly/portfolio_jalal_apartment
+
 This is my individual project about apartment in Jabodetabek ( Jakarta, Bogor, Depok, Tangerang, and Bekasi ). The goals are:
 - Identify what things that have a linear relationship with annual price
 - Create a regression model to predict the price
