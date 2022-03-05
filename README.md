@@ -1,5 +1,6 @@
 # Jakarta-Apartment
 report version     : https://bit.ly/portfolio_jalal_apartment
+
 slide-deck version : https://bit.ly/apartment_jalal
 
 This is my individual project about apartment in Jabodetabek ( Jakarta, Bogor, Depok, Tangerang, and Bekasi ). The goals are:
